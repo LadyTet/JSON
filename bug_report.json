@@ -1,7 +1,7 @@
 {"id" : 1, 
 "title" : "Bug" ,
 "description" : "That description",
-"STR" : "1. Do this 2.Do that; 3. etc.,
+"STR" : "1. Do this 2.Do that; 3. etc.",
 "Actual Result" : "It doesn`t work as expected",
 "Expected Result" : " It needs to work like that..." ,
 "Enviroment" : "My devices, browser , version",
