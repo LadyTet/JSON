@@ -1,1 +1,10 @@
-
+var bug_report = {"id" : int, 
+"title" : str ,
+"description" : str,
+"STR" : str,
+"Actual Result" : str,
+"Expected Result" : str ,
+"Enviroment" : str ,
+"Attachments" : img  
+ 
+}
