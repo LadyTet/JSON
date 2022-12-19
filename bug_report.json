@@ -1,4 +1,4 @@
-var bug_report = {"id" : int, 
+{"id" : int, 
 "title" : str ,
 "description" : str,
 "STR" : str,
